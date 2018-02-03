@@ -14,3 +14,6 @@ Homestead.json
 *.DS_Store
 .AppleDouble
 .LSOverride
+/.vagrant
+npm-debug.log
+yarn-error.log
